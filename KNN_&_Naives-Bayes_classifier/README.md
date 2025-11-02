@@ -60,9 +60,7 @@ F1-Score (Weighted Avg) 	0.86
 
 **Class-wise Details:**
 
-Class	              Precision 	Recall	F1-score	Support
-0 (No Outbreak)      	0.68     	1.00    	0.81	    13
-1 (Outbreak)	        1.00	    0.79    	0.88	    28
+Class	              Precision 	Recall	F1-score	Support                                       0 (No Outbreak)      	0.68     	1.00    	0.81	    13                                          1 (Outbreak)	        1.00	    0.79    	0.88	    28
 
 🔍 **Key Insights**
 
